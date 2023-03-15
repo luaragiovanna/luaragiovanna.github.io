@@ -1,5 +1,5 @@
 # luaragiovanna.github.io
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>Pagina Pessoal da Luara</h1>
