@@ -20,7 +20,7 @@
 </head>
 <body>
 	<h1>Página pessoal</h1>
-	<p>Acadêmica em ciência da Computação</p>
+	<p>Acadêmica de ciência da Computação</p>
     <p>Aprendendo html. . .</p>
 </body>
 </html>
